@@ -88,5 +88,5 @@
 }
 
 .test3 > span{
-    margin: auto; /* inline 요소는 적용 x  -> text-align 사용
+    margin: auto; /* inline 요소는 적용 x -> text-align 사용 */
 }
